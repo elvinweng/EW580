@@ -19,9 +19,4 @@ Unzip this package into the Plugins folder in your project. The uplugin file sho
 Launch your project again and follow the prompts from there to get to the samples and try out some 
 eyetracked interactions!
 
-If you are developing for desktop, a good place to start is the Tobii
-Unreal Engine SDK section on for desktop [Tobii Developer Zone] (https://developer.tobii.com/pc-gaming/unreal-engine-sdk/api-reference/).
-
-If you are focusing on VR have a look at the VR section of [Tobii Developer Zone] (https://developer.tobii.com/vr/develop/ue4/api/introduction/).
-
 **Have Fun!**
