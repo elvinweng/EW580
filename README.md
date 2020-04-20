@@ -11,8 +11,10 @@ Tobii Unreal Engine SDK requires the following setup on your computer:
 * Tobii Eye Tracking Core Software (either downloaded install bundle for peripheral eye tracker, or pre-installed on integrated systems)
 * Tobii consumer eye tracker peripheral or built-in device.
 
+### Download the zip from https://github.com/elvinweng/EW580/
+
 ### Add the Plugin to your Project:
-Unzip this package into the Plugins folder in your project. The uplugin file should be located here:
+Unzip the zip into the Plugins folder in your project. The uplugin file should be located here:
 
 	MyProject/Plugins/TobiiEyetracking/TobiiEyetracking.uplugin
 
