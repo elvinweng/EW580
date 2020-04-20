@@ -1,5 +1,7 @@
 # https://github.com/elvinweng/EW580/
 
+## Video: https://www.youtube.com/watch?v=zrig3BLL86E
+
 ## To get started:
 
 ### Prerequisites:
